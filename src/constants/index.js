@@ -221,8 +221,8 @@ const projects = [
     ],
     video:
       "https://res.cloudinary.com/da9v08yg8/video/upload/v1753374432/Screen_Recording_2025-07-24_215642_a9ajhx.mp4",
-    source_code_link: "https://github.com/PriyanshuXsingh/3d-portfolio",
-    live_link: "https://3d-portfolio-priyanshu.vercel.app",
+    source_code_link: "https://github.com/PriyanshuXsingh/Priyanshu-Portfolio",
+    live_link: "https://priyanshu-portfolio-orpin.vercel.app/",
   },
 ];
 

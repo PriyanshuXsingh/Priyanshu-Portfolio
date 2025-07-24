@@ -138,7 +138,7 @@ const Contact = () => {
               <FaLinkedin />
             </a>
              <a
-              href="https://github.com/PriyanshuXsingh"
+              href="https://www.instagram.com/priyanshusingh15__/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[#915EFF] transition"

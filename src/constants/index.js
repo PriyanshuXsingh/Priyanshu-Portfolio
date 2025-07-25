@@ -15,10 +15,6 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
   github,
   threejs,
 } from "../assets";
@@ -31,6 +27,10 @@ export const navLinks = [
   {
     id: "work",
     title: "Work",
+  },
+   {
+    id: "projects",
+    title: "Projects",
   },
   {
     id: "contact",
